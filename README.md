@@ -12,5 +12,4 @@ _Share some information about yourself, including your class, major, jobs, and e
 ## 🔗 Links
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
-
-_"Your sample quote here!"_
+"life is 10 percent what happens to you and 90 precent how you respond to it"-Lou Holtz
